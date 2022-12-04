@@ -6,3 +6,8 @@ I'll be using Replit, an amazing online IDE so I can do this from my phone where
 I am feeling 😘🤓
 You can follow my progress at replit.com/@Bluecoder108""")
 print("trying my best to change")
+print("""Trying from my phone,
+lol
+it feels awesome 
+really great 
+python is beautiful""")
